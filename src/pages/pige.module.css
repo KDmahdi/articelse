@@ -1,0 +1,28 @@
+.Articles {
+    display: flex;
+    justify-content: right;
+    font-size: x-large;
+    margin-right: 5%;
+    border-bottom: 2px solid #d5cece;
+    padding-bottom: 0px;
+
+}
+
+.art {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    border: 2px solid #edede7;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+
+.main {
+    background-color: #F8F9FA;
+}
+
+.aa {
+    width: 24%;
+}

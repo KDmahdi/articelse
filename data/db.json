@@ -1,0 +1,52 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "imgURL": "...",
+            "titele": "articeles1",
+            "discreption": "Explore our latest insights, deep dives, and perspectives on the world of technology and design"
+        },
+        {
+            "id": 2,
+            "imgURL": "...",
+            "titele": "articeles2",
+            "discreption": "Explore our latest insights, deep dives, and perspectives on the world of technology and design"
+        },
+        {
+            "id": 3,
+            "imgURL": "...",
+            "titele": "articeles3",
+            "discreption": "Explore our latest insights, deep dives, and perspectives on the world of technology and design"
+        },
+        {
+            "id": 4,
+            "imgURL": "...",
+            "titele": "articeles4",
+            "discreption": "Explore our latest insights, deep dives, and perspectives on the world of technology and design"
+        },
+        {
+            "id": 5,
+            "imgURL": "...",
+            "titele": "articeles5",
+            "discreption": "Explore our latest insights, deep dives, and perspectives on the world of technology and design"
+        },
+        {
+            "id": 6,
+            "imgURL": "...",
+            "titele": "articeles6",
+            "discreption": "Explore our latest insights, deep dives, and perspectives on the world of technology and design"
+        },
+        {
+            "id": 7,
+            "imgURL": "...",
+            "titele": "articeles7",
+            "discreption": "Explore our latest insights, deep dives, and perspectives on the world of technology and design"
+        },
+        {
+            "id": 8,
+            "imgURL": "...",
+            "titele": "articeles8",
+            "discreption": "Explore our latest insights, deep dives, and perspectives on the world of technology and design"
+        }
+    ]
+}

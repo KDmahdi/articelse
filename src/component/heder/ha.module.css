@@ -1,0 +1,37 @@
+.nav {
+    background-color: #2C3E50;
+    height: 50px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    /* استفاده از رنگ تیره با شفافیت (Alpha) */
+    background-color: rgba(138, 155, 181, 0.75);
+    /* افکت مات کردن پس‌زمینه پشت شیشه */
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(12px);
+    /* یک سایه بسیار ملایم برای جدا شدن از صفحه */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03);
+    /* یک خط مرزی بسیار باریک و شفاف در پایین */
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+    margin-top: 0px;
+    gap: 20px;
+    justify-content: right;
+    font-size: x-large;
+    flex-direction: row-reverse;
+    color: #FFFFFF;
+    margin-right: 5%;
+}
+
+.nav ul li {
+    cursor: pointer;
+    color:#FFFFFF;
+}
+
+.li:hover {
+    color: #FF6B6B;
+}
